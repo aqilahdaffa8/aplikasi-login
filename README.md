@@ -1,2 +1,7 @@
 # aplikasi-login
-sebuah aplikasi dengan fitur login
+Sebuah aplikasi dengan fitur login
+
+Alur fitur login:
+1. Memasukan email da password
+2. Memvalidasi masukan
+3. Menampilkan halaman beranda
